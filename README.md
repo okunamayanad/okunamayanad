@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=okunamayanad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20Welcome%20to%20%20my%20GitHub%20profile%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=okunamayanad&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 ## ⚡ Stats 
 
