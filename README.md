@@ -9,7 +9,7 @@ also a 12th grade highschool student in Turkey which means i may be slow to repl
 
 contact me via:
 - discord: okunamayanad (preferred)
-- baran@okunamayanad.com (i may miss mails sometimes. sorry if i miss yours!)
+- email: baran@okuna.dev (i may miss mails sometimes. sorry if i miss yours!)
 
 #
 
